@@ -18,7 +18,7 @@
 > ```git config --global user.name "我的用户名"```
 > ```git commit -m "备注"```
 > ```git push```
-> ```
+> 
 > 这个时候密码需要输入我们事先得到的token,具体介绍参考[这里](https://blog.csdn.net/qq_30049011/article/details/121182065?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522170360333316800222832264%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=170360333316800222832264&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-2-121182065-null-null.142^v98^pc_search_result_base2&utm_term=github%20token%E7%99%BB%E5%85%A5&spm=1018.2226.3001.4187)
 > 但是这里会出现问题,我们每次push就会需要在密码处输入我们的token,这显然很难受,所以我们需要输入以下命令
 > ```git remote set-url origin https://<your_token>@github.com/<USERNAME>/<REPO>.git```
