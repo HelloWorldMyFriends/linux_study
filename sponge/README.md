@@ -1,6 +1,3 @@
-±¾ÎÄÎªÎÒµÄË¹Ì¹¸£¼ÆËã»úÍøÂç¿ÎµÄ±à³ÌÊµÑé£¨Lab Assignments£©µÄÍê³ÉºóµÄ×÷Òµ´úÂë¡£
-¿Î³ÌÈ«³Æ£ºCS 144: Introduction to Computer Networking¡£
-
-ËùÓĞLABÍê³ÉºóµÄ´úÂë·ÅÔÚsolution·ÖÖ§ÏÂ£¬×î¿ªÊ¼µÄLAB0µÄÔ­Ê¼´úÂë·ÅÔÚmaster·ÖÖ§ÏÂ£¬Çë¸ù¾İ×Ô¼ºµÄĞèÇó×ÔĞĞÇĞ»»¡£
-
-Èç¹ûÒòÎªÅäÖÃÎÊÌâ»òÕß±ğµÄÎÊÌâ¿¨¹ØÁË¿ÉÒÔ²Î¿¼ÎÒµÄ±Ê¼Ç£º[https://www.cnblogs.com/kangyupl/p/stanford_cs144_labs.html](https://www.cnblogs.com/kangyupl/p/stanford_cs144_labs.html)
+## è®¡ç½‘å¤§ä½œä¸š
+2021102560 è½¯ä»¶å·¥ç¨‹ é‡‘é¸¿æ­£
+[å®éªŒå‚è€ƒ](https://www.cnblogs.com/kangyupl/p/stanford_cs144_labs.html)
